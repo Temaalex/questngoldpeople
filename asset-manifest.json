@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/questngoldpeople/static/css/main.f855e6bc.css",
-    "main.js": "/questngoldpeople/static/js/main.2424470f.js",
-    "static/js/453.2c4339a0.chunk.js": "/questngoldpeople/static/js/453.2c4339a0.chunk.js",
-    "static/media/logo.svg": "/questngoldpeople/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/questngoldpeople/static/css/main.6170e501.css",
+    "main.js": "/questngoldpeople/static/js/main.328a549f.js",
+    "static/js/885.422fec19.chunk.js": "/questngoldpeople/static/js/885.422fec19.chunk.js",
+    "static/media/winimg.png": "/questngoldpeople/static/media/winimg.44ff14afdb3d793c4706.png",
+    "static/media/PersonRev.png": "/questngoldpeople/static/media/PersonRev.34ffda3399f8db848516.png",
+    "static/media/zloysnow.png": "/questngoldpeople/static/media/zloysnow.777c7db708ef4d480e26.png",
+    "static/media/Person.png": "/questngoldpeople/static/media/Person.2ef5f6d4dff96daaa61a.png",
+    "static/media/win.mp3": "/questngoldpeople/static/media/win.49e48b3f9846d53e1c95.mp3",
+    "static/media/kick.mp3": "/questngoldpeople/static/media/kick.f16cbf8bfafb00711ad6.mp3",
+    "static/media/Box.png": "/questngoldpeople/static/media/Box.f0083bbb96ac2222c26f.png",
+    "static/media/gameOver.mp3": "/questngoldpeople/static/media/gameOver.45be6961f91457a39a6d.mp3",
     "index.html": "/questngoldpeople/index.html",
-    "main.f855e6bc.css.map": "/questngoldpeople/static/css/main.f855e6bc.css.map",
-    "main.2424470f.js.map": "/questngoldpeople/static/js/main.2424470f.js.map",
-    "453.2c4339a0.chunk.js.map": "/questngoldpeople/static/js/453.2c4339a0.chunk.js.map"
+    "main.6170e501.css.map": "/questngoldpeople/static/css/main.6170e501.css.map",
+    "main.328a549f.js.map": "/questngoldpeople/static/js/main.328a549f.js.map",
+    "885.422fec19.chunk.js.map": "/questngoldpeople/static/js/885.422fec19.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.2424470f.js"
+    "static/css/main.6170e501.css",
+    "static/js/main.328a549f.js"
   ]
 }
