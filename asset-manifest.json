@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/questngoldpeople/static/css/main.f855e6bc.css",
+    "main.js": "/questngoldpeople/static/js/main.2424470f.js",
+    "static/js/453.2c4339a0.chunk.js": "/questngoldpeople/static/js/453.2c4339a0.chunk.js",
+    "static/media/logo.svg": "/questngoldpeople/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/questngoldpeople/index.html",
+    "main.f855e6bc.css.map": "/questngoldpeople/static/css/main.f855e6bc.css.map",
+    "main.2424470f.js.map": "/questngoldpeople/static/js/main.2424470f.js.map",
+    "453.2c4339a0.chunk.js.map": "/questngoldpeople/static/js/453.2c4339a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2424470f.js"
+  ]
+}
