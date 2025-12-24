@@ -49,8 +49,9 @@ main{
 .ConnentOfDoctor{
   font-family: 'Roboto Mono', monospace;
   font-weight:600;
-  font-size: 20px;
+  font-size: 15px;
   margin: 10px;
+  white-space:pre-line ;
 }
 .nextButton
 {
@@ -112,9 +113,10 @@ main{
   margin-top: 50px;
   font-family: 'Roboto Mono', monospace;
   font-weight:600;
-  font-size: 25px;
+  font-size: 20px;
   align-items: center;
   text-align: center;
+  white-space:pre-line ;
 }
 .timer{
   display: flex;

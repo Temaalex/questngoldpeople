@@ -47,15 +47,16 @@ const QuizBoss = () => {
   let [key, setKey] = useState(Number(location.pathname.slice(1)));
   const [HPboss, setHPBoss] = useState(1000)
   const [HPheroes, setHPHeroes] = useState(500)
+  
   if(count === 0){
-      moveHer()
-      setHPHeroes(HPheroes-100)
-      setCount(15) 
-      if(HPheroes === 100){
-        playSoundgameOver()
-        navigate('/0')
-        setKey(42)
-      }    
+        moveHer()
+        setHPHeroes(HPheroes-100)
+        setCount(15) 
+        if(HPheroes === 100){
+          playSoundgameOver()
+          navigate('/0')
+          setKey(42)
+        }  
     }
 
  function getMap(){ 
@@ -67,8 +68,9 @@ const QuizBoss = () => {
     }
  }
 function update_1(){
-      getMap()
+      
     if(data.contents[key].answer.answer_1[1] === true){
+      getMap()
       move()
        setKey(key + 1)
        setHPBoss(HPboss-100)
@@ -84,8 +86,9 @@ function update_1(){
     }
   }
   function update_2(){
-    getMap()
+    
     if(data.contents[key].answer.answer_2[1] === true){
+      getMap()
       move()
       setKey(key + 1)
       setHPBoss(HPboss-100)
@@ -101,8 +104,8 @@ function update_1(){
     }
   }
   function update_3(){
-    getMap()
     if(data.contents[key].answer.answer_3[1] === true){
+      getMap()
       move()
       setKey(key + 1)
       setHPBoss(HPboss-100)
@@ -119,8 +122,9 @@ function update_1(){
     
   }
   function update_4(){
-    getMap()
+    
     if(data.contents[key].answer.answer_4[1] === true){
+      getMap()
       move()
       setKey(key + 1)
       setHPBoss(HPboss-100)
