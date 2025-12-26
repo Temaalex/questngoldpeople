@@ -25,7 +25,7 @@ const contentOne = [
     <div key={1} className='wrap'>
       <input 
         id="masswge" 
-        placeholder='введите ответ' 
+        placeholder='введите слово' 
         className='inputAppWords'
         ></input>
       <button onClick={checked} className='buttonOK'>ОК</button>
