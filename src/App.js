@@ -7,8 +7,6 @@ import QuizText from './components/QuizText';
 import TheEnd from './components/TheEnd';
 import ToBoss from './components/toBoss'
 
-import TheEndTwo from './components/TheEndTwo'
-import QuizBossTwo from './components/QuizBossTwo'
 
 function App() {
   return (
@@ -49,11 +47,11 @@ function App() {
 
 {/* Босс */}
 <Route path="/42" element={<QuizBoss/>} />
-<Route path="/999" element={<QuizBossTwo/>} />
+
 
 {/* Финиш */}
 <Route path="/1001" element={<TheEnd/>} />
-<Route path="/1002" element={<TheEndTwo/>} />
+
 
 
 

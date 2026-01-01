@@ -61,13 +61,6 @@ const QuizBoss = () => {
     }
 
  function getMap(){ 
-  //удалить QuizBossTwo TheEndTwo и в App тоже
-  if(key === 51 && HPheroes === 500){
-        move()
-        key = Number(location.pathname.slice(1))
-        navigate('/999')
-      }
-    //удалить 
     if(key === 51){     
       playSoundwin()
       move()
