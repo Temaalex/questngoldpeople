@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/questngoldpeople/static/css/main.233335b2.css",
-    "main.js": "/questngoldpeople/static/js/main.9224f130.js",
+    "main.js": "/questngoldpeople/static/js/main.f51d6e12.js",
     "static/js/885.422fec19.chunk.js": "/questngoldpeople/static/js/885.422fec19.chunk.js",
-    "static/media/zloyBoss.png": "/questngoldpeople/static/media/zloyBoss.cfd57f7cc528c6778e0a.png",
     "static/media/Person.png": "/questngoldpeople/static/media/Person.5fd9050480655a6e114c.png",
     "static/media/PersonRev.png": "/questngoldpeople/static/media/PersonRev.8e3996c125b75d75e738.png",
     "static/media/winimg.png": "/questngoldpeople/static/media/winimg.44ff14afdb3d793c4706.png",
@@ -14,11 +13,11 @@
     "static/media/gameOver.mp3": "/questngoldpeople/static/media/gameOver.45be6961f91457a39a6d.mp3",
     "index.html": "/questngoldpeople/index.html",
     "main.233335b2.css.map": "/questngoldpeople/static/css/main.233335b2.css.map",
-    "main.9224f130.js.map": "/questngoldpeople/static/js/main.9224f130.js.map",
+    "main.f51d6e12.js.map": "/questngoldpeople/static/js/main.f51d6e12.js.map",
     "885.422fec19.chunk.js.map": "/questngoldpeople/static/js/885.422fec19.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.233335b2.css",
-    "static/js/main.9224f130.js"
+    "static/js/main.f51d6e12.js"
   ]
 }
