@@ -52,6 +52,7 @@ const QuizBoss = () => {
         moveHer()
         setHPHeroes(HPheroes-100)
         setCount(15) 
+        
         if(HPheroes === 100){
           playSoundgameOver()
           navigate('/0')
@@ -60,7 +61,14 @@ const QuizBoss = () => {
     }
 
  function getMap(){ 
-    if(key === 51){
+  //удалить QuizBossTwo TheEndTwo и в App тоже
+  if(key === 51 && HPheroes === 500){
+        move()
+        key = Number(location.pathname.slice(1))
+        navigate('/1002')
+      }
+    //удалить 
+    if(key === 51){     
       playSoundwin()
       move()
       key = Number(location.pathname.slice(1))
