@@ -65,7 +65,7 @@ const QuizBoss = () => {
   if(key === 51 && HPheroes === 500){
         move()
         key = Number(location.pathname.slice(1))
-        navigate('/1002')
+        navigate('/999')
       }
     //удалить 
     if(key === 51){     
